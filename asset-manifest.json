@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/alexisramirez/static/css/main.073c9b0a.css",
+    "main.js": "/alexisramirez/static/js/main.42abdba1.js",
+    "static/js/377.d5773f9d.chunk.js": "/alexisramirez/static/js/377.d5773f9d.chunk.js",
+    "service-worker.js": "/alexisramirez/service-worker.js",
+    "static/media/logo.svg": "/alexisramirez/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/alexisramirez/index.html",
+    "main.073c9b0a.css.map": "/alexisramirez/static/css/main.073c9b0a.css.map",
+    "main.42abdba1.js.map": "/alexisramirez/static/js/main.42abdba1.js.map",
+    "377.d5773f9d.chunk.js.map": "/alexisramirez/static/js/377.d5773f9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.42abdba1.js"
+  ]
+}
